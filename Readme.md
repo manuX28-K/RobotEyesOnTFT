@@ -1,6 +1,6 @@
 # What is RobotEyesOnTFT ?
 
-Well, it is a project to bring the classic Robot Eyes and bring it onto the TFT display platform.
+Well, it is a project to bring the classic Robot Eyes onto the TFT display platform.
 
 ## What does this project has to offer ?
 
@@ -13,7 +13,7 @@ I do not know well on how to explain the thing but this is what it sums up to.
 
 # Where do I get started ?
 
-Well, you need to get the TFT-Eyes.ino file from the releases tab. And open it up from the Arduino IDE ( latest build...older ones will work ig )
+Well, you need to get the source code.zip file from the releases tab. Extract it and open up the TFT-Eyes.ino file from the Arduino IDE ( latest build...older ones will work ig )
 and flash it to your ESP. You can read the code for yourself and most of the things are commented so it will be easy to figure out the process for yourself.
 
 # ----- ESP32 S3 SPECIAL NOTICE -----
