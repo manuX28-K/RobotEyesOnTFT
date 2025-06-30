@@ -1,6 +1,7 @@
 # What is RobotEyesOnTFT ?
 
 Well, it is a project to bring the classic Robot Eyes onto the TFT display platform.
+![Project-Preview][https://github.com/manuX28-K/RobotEyesOnTFT/blob/main/Beta-Build-Preview.jpg]
 
 ## What does this project has to offer ?
 
