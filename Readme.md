@@ -31,8 +31,17 @@ of mistakes whilst in the process and ChatGPT ( GOATGPT 🗿 ) helped me overcom
 Thank you a lot for testing this project out, if you have any suggestions/improvements please let me know. Enjoy!!!
 
 
-### Gallery
+## Gallery
+
+Eyes Open Animation Preview
 
 ![Eyes-Open](https://github.com/manuX28-K/RobotEyesOnTFT/blob/main/Eyes-Open-Animation.jpg)
+
+Eyes Closed Animation Preview
+
 ![Eyes-Closed](https://github.com/manuX28-K/RobotEyesOnTFT/blob/main/Blinking-Animation.jpg)
+
+
+Clear Visibility in Darkness Preview
+
 ![Clear-Visibility](https://github.com/manuX28-K/RobotEyesOnTFT/blob/main/Clear-Visibilty-in-Dark.jpg)
