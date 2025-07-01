@@ -6,7 +6,7 @@ Well, it is a project to bring the classic Robot Eyes onto the TFT display platf
 
 ### What does this project has to offer ?
 
-Currently blinking and glazing is supported, more effects will be added in the future ( only if i figure out how to 🫠 )
+Currently blinking and gazing is supported, more effects will be added in the future ( only if i figure out how to 🫠 )
 
 ### How does it work ?
 
