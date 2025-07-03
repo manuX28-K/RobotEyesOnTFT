@@ -1,4 +1,4 @@
-# What is RobotEyesOnTFT ?
+# What is Robot Eyes On TFT ?
 
 Well, it is a project to bring the classic Robot Eyes onto the TFT display platform.
 
