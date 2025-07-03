@@ -16,7 +16,7 @@ I do not know well on how to explain the thing but this is what it sums up to.
 # Where do I get started ?
 
 Well, you need to get the source code.zip file from the releases tab. Extract it and open up the TFT-Eyes.ino file from the Arduino IDE ( latest build...older ones will work ig )
-and flash it to your ESP. You can read the code for yourself and most of the things are commented so it will be easy to figure out the process for yourself.
+and flash it to your ESP. You will need to install the TFT_eSPI library via Arduino IDE's library manager and configure it to work with your ESP32 and your screen of choice. You can read the code for yourself and most of the things are commented so it will be easy to figure out the process for yourself.
 
 ### What will you need ?
 1. Any kind of ESP32 ( Esp32 S3 works better since it has PSRAM by default )
