@@ -58,10 +58,10 @@ void setup() {
 void drawBlueEye(TFT_eSprite &eye, int eyeX, int eyeY, int moveX, int moveY, bool closed) {
   eye.fillSprite(TFT_BLACK);
   if (closed) {
-    eye.fillRect(10, eyeHeight / 2, eyeWidth, 10, TFT_GREENYELLOW); /* change the TFT_... color to your prefered color to
+    eye.fillRect(10, eyeHeight / 2, eyeWidth, 10, TFT_CYAN; /* change the TFT_... color to your prefered color to
     apply that specific color to the eyelid */
   } else {
-    eye.fillRoundRect(10 + moveX, 10 + moveY, eyeWidth, eyeHeight, 20, TFT_GREENYELLOW); /* same goes here, not all RGB colors are supported
+    eye.fillRoundRect(10 + moveX, 10 + moveY, eyeWidth, eyeHeight, 20, TFT_CYAN); /* same goes here, not all RGB colors are supported
     at the moment. only supports colors from the TFT_eSPI library */
   }
   eye.pushSprite(eyeX - (eyeWidth / 2 + 10), eyeY - (eyeHeight / 2 + 10));
